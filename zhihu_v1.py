@@ -6,7 +6,10 @@ import requests
 from selenium import webdriver
 from selenium.common import NoSuchElementException, StaleElementReferenceException
 from selenium.webdriver.common.by import By
-
+"""
+作者：小菲
+时间：2022.07.10
+"""
 
 # 使用requests获取图片并保存到本地
 def save_image(src, save_path):
@@ -31,6 +34,7 @@ def save_image(src, save_path):
 	with open(f'{save_path}/{img_title}', 'wb') as f_img:
 		# 写入二进制文件内容
 		f_img.write(resp.content)
+
 	print(f'图片保存成功\n\n{img_title}')
 
 
