@@ -45,4 +45,4 @@ V1关键是稳啊,不容易被封,还不会丢图
 
 ## 各位请注意保重身体
 
-![保重身体.jpg](https://doc.fayewong.cc/usr/uploads/2022/07/587944458.png)
+![](https://img.fayewong.cc/imgs/2022/07/bbad5cacda779143.png)
